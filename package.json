@@ -1,12 +1,8 @@
 {
   "name": "hyperbeam-api",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node api/index.js"
-  },
+  "type": "module",
   "dependencies": {
     "hyperbeam": "^1.0.0"
-  },
-  "type": "module"
+  }
 }
